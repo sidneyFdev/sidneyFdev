@@ -1,20 +1,24 @@
 ## Olá, Tudo bem?👋
 ### Eu sou Sidney Figueiredo
 
+# 👋 Olá! Eu sou o Sidney Figueiredo
+
+Sou um profissional em transição de carreira, com sólida experiência em suporte técnico e infraestrutura, e atualmente em processo de migração para o desenvolvimento web e mobile.
+
+💻 **Atualmente estudando e praticando:**
+- Desenvolvimento **web e mobile**, com foco em **React**
+- Manipulação e análise de dados com **Python**
+- Desenvolvimento de jogos com **Godot**
+
+🌱 Estou aprendendo e praticando diariamente, e este repositório é um reflexo do meu progresso contínuo. Gosto de entender como as ferramentas funcionam por baixo dos panos, e tenho grande interesse em projetos open-source.
+
 [![card](https://github-readme-stats.vercel.app/api?username=sidneyFdev&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-figueiredo-307b55171)
-<!--
-**sidneyFdev/sidneyFdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Meu objetivo**: Me tornar um desenvolvedor qualificado e crescer profissionalmente em uma equipe que valorize o aprendizado contínuo e ofereça oportunidades de evolução.
 
-Here are some ideas to get you started:
+📫 Você pode me encontrar em:
+- 📧 Email: sidney_f.silva@hotmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/sidney-figueiredo) *(Atualize com seu link real)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos ou entrar em contato. Estou sempre aberto a feedbacks, conexões e oportunidades de colaboração.
+
