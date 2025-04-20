@@ -12,7 +12,9 @@ Sou um profissional em transição de carreira, com sólida experiência em supo
 
 🌱 Estou aprendendo e praticando diariamente, e este repositório é um reflexo do meu progresso contínuo. Gosto de entender como as ferramentas funcionam por baixo dos panos, e tenho grande interesse em projetos open-source.
 
-[![card](https://github-readme-stats.vercel.app/api?username=sidneyFdev&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=10)
+
+#[![card](https://github-readme-stats.vercel.app/api?username=sidneyFdev&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 📌 **Meu objetivo**: Me tornar um desenvolvedor qualificado e crescer profissionalmente em uma equipe que valorize o aprendizado contínuo e ofereça oportunidades de evolução.
 
