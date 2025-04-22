@@ -13,7 +13,7 @@ Sou um profissional em transição de carreira, com sólida experiência em supo
 🌱 Estou aprendendo e praticando diariamente, e este repositório é um reflexo do meu progresso contínuo. Gosto de entender como as ferramentas funcionam por baixo dos panos, e tenho grande interesse em projetos open-source.  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyFDev&layout=compact&langs_count=10&theme=dark&hoje=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyFDev&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook)
 
 📌 **Meu objetivo**: Me tornar um desenvolvedor qualificado e crescer profissionalmente em uma equipe que valorize o aprendizado contínuo e ofereça oportunidades de evolução.  
 
