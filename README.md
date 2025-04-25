@@ -16,7 +16,7 @@ Sou um profissional em transição de carreira, com sólida experiência em supo
 
 
 📫 Você pode me encontrar em:
-- 📧 Email: sidney_f.silva@hotmail.com
+- 📧 Email: sidney.figueiredo97.dev@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sidney-figueiredo)
 
 🚀 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos ou entrar em contato. Estou sempre aberto a feedbacks, conexões e oportunidades de colaboração.
