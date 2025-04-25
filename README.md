@@ -1,7 +1,4 @@
-## Olá, Tudo bem?👋
-### Eu sou Sidney Figueiredo
-
-# 👋 Olá! Eu sou o Sidney Figueiredo
+# 👋 Olá! Eu sou o Sidney!
 
 Sou um profissional em transição de carreira, com sólida experiência em suporte técnico e infraestrutura, e atualmente em processo de migração para o desenvolvimento web e mobile.
 
